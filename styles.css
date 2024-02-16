@@ -1,10 +1,10 @@
 .holder{
-	display:flexbox;
+	display:flex;
 	background-color:red;
 	width:100px;
 	height:100px;
+	justify-content:center;
 	align-items:center;
-	
 }
 
 .item item-1{
