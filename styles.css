@@ -1,6 +1,13 @@
 .holder{
-	display:flex;
-	/* flex-flow:row wrap; */
-	justify-content:center;
+	display:flexbox;
+	background-color:red;
+	width:100px;
+	height:100px;
+	align-items:center;
+	
+}
+
+.item item-1{
+	
 }
 /* Your CSS Code here. */
